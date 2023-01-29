@@ -3,6 +3,7 @@
 void kill()
 {
   printf("killed!");
+  printf("Josss");
 
 }
 
