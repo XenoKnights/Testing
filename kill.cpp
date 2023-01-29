@@ -3,6 +3,7 @@
 void kill()
 {
   printf("killed!");
+  puts("duar");
 }
 
 int main()
